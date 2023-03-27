@@ -1,0 +1,4 @@
+C:/Users/rWX958585/Downloads/MathProject-windows/build/CMakeFiles/MathLibrary.dir
+C:/Users/rWX958585/Downloads/MathProject-windows/build/CMakeFiles/MathClient.dir
+C:/Users/rWX958585/Downloads/MathProject-windows/build/CMakeFiles/edit_cache.dir
+C:/Users/rWX958585/Downloads/MathProject-windows/build/CMakeFiles/rebuild_cache.dir

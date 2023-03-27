@@ -1,0 +1,5 @@
+# ninja log v5
+15	113	7016488627770204	CMakeFiles/MathLibrary.dir/src/MathLibrary.cpp.obj	6a8ee673c24da076
+115	186	7016488628520185	lib/libMathLibrary.a	6573208fda54b5c3
+19	447	7016488631100184	CMakeFiles/MathClient.dir/src/MathClient.cpp.obj	c54fff6951e90a1b
+457	1041	7016488636948019	bin/MathClient.exe	4cb9d3f6c92b3ad2
